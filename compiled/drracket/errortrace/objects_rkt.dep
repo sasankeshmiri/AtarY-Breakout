@@ -1,1 +1,0 @@
-("5.3.6" ("73ca2312047f4a735a2d84089b05150853b53d6c" . "8a831ba2e35df8edac92a5928cc5060c093394f6") #"/home/saske907/tddc74-project/classes.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

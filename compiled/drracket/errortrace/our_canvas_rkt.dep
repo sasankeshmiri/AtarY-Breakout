@@ -1,1 +1,0 @@
-("5.3.6" ("fd667db2f37df35d38929d21867bbd8ca66503e5" . "9053cacea73454069560447c962cff87f5fa6cb0") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"gui.rkt") #"/home/saske907/tddc74-project/graphics.rkt" (collects #"racket" #"gui" #"lang" #"reader.rkt"))

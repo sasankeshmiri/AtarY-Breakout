@@ -1,0 +1,1 @@
+("6.3" ("f52403d99560364796bd08be725da2e792d797fe" . "38d59076df518f0856f7838e8bbeb6f64b7d8714") #"C:\\Users\\Sasan\\Desktop\\documents\\Skolarbete\\tddc74-project\\brick.rkt" #"C:\\Users\\Sasan\\Desktop\\documents\\Skolarbete\\tddc74-project\\pad.rkt" (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt"))

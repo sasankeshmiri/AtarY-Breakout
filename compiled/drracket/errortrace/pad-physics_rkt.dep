@@ -1,0 +1,1 @@
+("6.3" ("5731b316e575e1c0e22c3123238666eb8d3e2b23" . "4a12cface178d604176f16fe0074a63cc1f76775") #"C:\\Users\\Sasan\\tddc74-project\\our_canvas.rkt" #"C:\\Users\\Sasan\\tddc74-project\\pad.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("5.3.6" ("05ac73ee87cf67bb8556e373490a21328d1a95cc" . "943f52b460fe2c2d86d1c3cf6aa331241812a8c5") #"/home/saske907/tddc74-project/objects.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

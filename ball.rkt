@@ -1,4 +1,5 @@
 #lang racket/gui
+(require "constants.rkt")
 (require "pad.rkt")
 (require "brick.rkt")
 (provide (all-defined-out))
@@ -102,11 +103,11 @@
 
 ;Här skapar vi vår boll
 (define *ball* (new ball% 
-                    [width 16]
-                    [height 16]
+                    [width ball-width]
+                    [height ball-height]
                     [xpos 622]
                     [ypos 400]
-                    [speed 3]
+                    [speed ball-speed]
                     [angle (/ pi 2)]
                     [score 0]))
 

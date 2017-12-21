@@ -22,8 +22,16 @@
 (provide brick-width)
 (provide brick-height)
 
-
 ;Brick effect properties
 (define speed-effect 2)
 
 (provide speed-effect)
+
+;Ball properties
+(define ball-width (/ window-width 80))
+(define ball-height (/ window-height 45))
+(define ball-speed 3)
+
+(provide ball-width)
+(provide ball-height)
+(provide ball-speed)

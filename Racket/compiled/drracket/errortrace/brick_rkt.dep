@@ -1,0 +1,1 @@
+("6.3" ("4afcbc78b3c4a288f6403a5cccd863f5b93db605" . "df440f4098dd31cc1cf7f351e8fe63ddbd51f8c9") #"C:\\Users\\Sasan\\Documents\\AtarY-Breakout\\properties.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
